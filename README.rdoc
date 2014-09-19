@@ -1,0 +1,19 @@
+== README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version - ruby 2.0.0p247
+
+* Rails version - Rails 4.1.4
+
+* System dependencies - sqlite database, rails, ruby
+
+* Database creation - rake db:create
+
+* Database initialization - rake db:migrate
+
+* To test the subdomain part successfully use 'lvh.me:3000' in browser instead of 'localhost:3000'
+
